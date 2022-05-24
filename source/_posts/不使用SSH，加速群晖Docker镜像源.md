@@ -5,7 +5,7 @@ tags:
   - synology
   - docker
   - 阿里云
-categories: 技术教程
+categories: 群晖
 top_img: >-
   https://cdn.jsdelivr.net/gh/2427768286/STDM-imgs/post/不使用SSH，加速群晖Docker镜像源/yi9299.png
 cover: >-

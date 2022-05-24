@@ -8,7 +8,7 @@ tags:
   - AutoRemove
   - seedbox
   - 刷流
-categories: 技术教程
+categories: seedbox
 description: 如何成为一名优秀的刷子（
 top_img: 'https://cdn.jsdelivr.net/gh/2427768286/STDM-imgs/post/PT盒子搭建，以及全自动下载删除教程/c4ca4238a0b9.png'
 cover: 'https://cdn.jsdelivr.net/gh/2427768286/STDM-imgs/post/PT盒子搭建，以及全自动下载删除教程/c4ca4238a0b9.png'

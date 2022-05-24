@@ -5,7 +5,7 @@ tags:
   - 群晖
   - IYUU自动辅种工具
   - IYUUPlus
-categories: 技术教程
+categories: 群晖
 description: 群晖docker安装IYUUPlus
 toc: true
 copyright_author: David

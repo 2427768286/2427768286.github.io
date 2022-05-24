@@ -6,7 +6,7 @@ tags:
   - Linux
   - docker
   - irc
-categories: 技术教程
+categories: 群晖
 description: 氵氵更健康
 top_img: >-
   https://cdn.jsdelivr.net/gh/2427768286/STDM-imgs/post/群晖the-lounge-docker-配置IRC-24小时在线并水IRC20211124122237.png

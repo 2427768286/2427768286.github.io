@@ -6,7 +6,7 @@ tags:
   - Grafana
   - Promethus
   - 群晖
-categories: 技术教程
+categories: 群晖
 description: >-
   本文将教你如何用Grafana和Promethus搭配订制的exporter在群晖搭建一个用于统计qBittorrent/Deluge/Transmission流量的面板
 top_img: >-
