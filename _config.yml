@@ -7,7 +7,7 @@ title: さくら荘のタイズ
 subtitle: '樱花庄的小汐'
 description: '樱花庄的小汐'
 keywords:
-author: Stardream
+author: STRDM
 language: zh-CN
 timezone: ''
 
@@ -109,7 +109,7 @@ theme: butterfly
 deploy:
   type: git
   repo: https://github.com/2427768286/2427768286.github.io
-  branch: master
+  branch: hexo
 
 # KaTeX Math
 markdown:
@@ -159,17 +159,20 @@ tag_plugins:
   enable: true # 开关
   priority: 5 #过滤器优先权
   issues: false #issues标签依赖注入开关
+  link:
+    placeholder: /img/link.png #link_card标签默认的图标图片
   CDN:
-    anima: https://cdn.jsdelivr.net/gh/l-lin/font-awesome-animation/dist/font-awesome-animation.min.css #动画标签anima的依赖
-    jquery: https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js #issues标签依赖
-    issues: https://cdn.jsdelivr.net/npm/hexo-theme-volantis@latest/source/js/issues.min.js #issues标签依赖
+    anima: https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@latest/lib/assets/font-awesome-animation.min.css #动画标签anima的依赖
+    jquery: https://npm.elemecdn.com/jquery@latest/dist/jquery.min.js #issues标签依赖
+    issues: https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@latest/lib/assets/issues.js #issues标签依赖
     iconfont: //at.alicdn.com/t/font_2032782_8d5kxvn09md.js #参看https://akilar.top/posts/d2ebecef/
-    carousel: https://cdn.jsdelivr.net/npm/hexo-butterfly-tag-plugins-plus@latest/lib/carousel-touch.min.js
+    carousel: https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@latest/lib/assets/carousel-touch.js
+    tag_plugins_css: https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@latest/lib/tag_plugins.css
     
 # 备份
 backup:
   type: git
   theme: butterfly
-  message: Back up my blog.stardream.online blog
+  message: Back up my blog.stardream.online blog from my laptop
   repository:
     github: git@github.com:2427768286/2427768286.github.io.git,backup
