@@ -168,7 +168,7 @@ tag_plugins:
     
 # 备份
 backup:
-  type: origin
+  type: git
   theme: butterfly
   message: Back up my blog.stardream.online blog
   repository:
