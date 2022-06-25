@@ -1,5 +1,5 @@
 ---
-title: 无需解谜快速领取 Steam 2022 夏促徽章
+title: 无需解谜一键领取 Steam 2022 夏促徽章
 tags:
   - Steam
   - F12
