@@ -854,7 +854,7 @@ inject:
     # - <link rel="stylesheet" href="/css/my/background.css">
     - <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/static-butterfly/dist/css/index.min.css">
     - '<style type="text/css">#toggle-sidebar {bottom: 80px}</style>'
-    - <link rel="stylesheet" href="/css/copyright.css">
+    # - <link rel="stylesheet" href="/css/copyright.css">
   bottom:
     # - <script src="xxxx"></script>
     - <script src="https://blog.stardream.online/js/my/funny.js"></script>
