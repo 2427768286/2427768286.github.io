@@ -6430,6 +6430,23 @@ blockquote.pullquote.right {
     margin-bottom: 0;
   }
 }
+.careers{
+    position: relative;
+}
+.careers::after{
+    position: absolute;
+    content: '';
+    left:0;
+    top:0;
+    background-image: url(https://cdn.jsdelivr.net/gh/2427768286/STDM-imgs/page/abouta9ufn-d4e4c.webp);
+    opacity: 0.3;
+    background-repeat: no-repeat;
+    /* 背景图像大小 */
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-position: right;
+}
 #about-page .about-statistic {
   min-height: 380px;
   width: 39%;
