@@ -102,3 +102,25 @@
 #web_bg ~ .page:has(.fcircle_page) {
   background-color: #f7f9fe !important;
 }
+
+:root {
+    --ichika-emphasis-color: #F7F81A;
+}
+
+/* 公告&欢迎页 */
+.card-announcement {
+    background: linear-gradient(to top left, #8B00BB 0%, #030094 100%) !important;
+    color:white;
+    line-height:30px;
+    font-size:16px;
+}
+
+.card-announcement .item-headline span{
+    margin-left:0!important;
+}
+
+.card-announcement span{
+    font-weight:bold;
+    font-size:20px!important;
+    color:var(--ichika-emphasis-color);
+}
